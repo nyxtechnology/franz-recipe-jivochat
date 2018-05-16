@@ -1,0 +1,12 @@
+{
+  "id": "jivochat",
+  "name": "JivoChat",
+  "version": "1.0.0",
+  "description": "JivoChat",
+  "main": "index.js",
+  "author": "Edmar Gomes <edmar.gomes@nyx.tc>",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://app.jivosite.com"
+  }
+}
