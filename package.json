@@ -6,7 +6,9 @@
   "main": "index.js",
   "author": "Edmar Gomes <edmar.gomes@nyx.tc>",
   "license": "MIT",
+  "repository": "https://github.com/nyxtechnology/franz-recipe-jivochat",
   "config": {
-    "serviceURL": "https://app.jivosite.com"
+    "serviceURL": "https://app.jivosite.com",
+    "hasNotificationSound": true
   }
 }
